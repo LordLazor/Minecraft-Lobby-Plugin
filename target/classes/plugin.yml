@@ -1,0 +1,58 @@
+name: TestPlugin
+version: 1.0-SNAPSHOT
+main: de.lordlazor.script.Script
+api-version: 1.16
+authors: [ LordLazor ]
+description: Simple Paper Plugin
+
+commands:
+  heal:
+    description: Heilt dich.
+  broadcast:
+    description: Broadcastet eine Nachricht
+    aliases: ["bc"]
+  backpack:
+    description: Öffnet deinen Rucksack
+    aliases: ["rucksack"]
+  regeln:
+    description: Zeigt die Regeln
+    aliases: ["rules"]
+  fly:
+    description: Lässt dich fliegen
+  gm:
+    description: Ändert deinen Gamemode
+  admin:
+    description: Admin-Modus an
+  clear:
+    description: Leert dein Inventar
+  hub:
+    description: Bringt dich zum Spawn
+    aliases: ["l", "lobby", "spawn"]
+  shop:
+    description: Öffnet Shop-Menu
+
+permissions:
+  de.lordlazor.testplugin.heal:
+    description: Damit kannst du dich heilen
+    default: false
+  de.lordlazor.testplugin.broadcast:
+    description: Teilt jedem eine Nachricht mit
+    default: false
+  de.lordlazor.testplugin.gm:
+    description: Ändert deinen Gamemode
+    default: false
+  de.lordlazor.testplugin.fly:
+    description: Lässt dich fliegen
+    default: false
+  de.lordlazor.testplugin.admin:
+    description: Admin-Modus aktiviert
+    default: op
+  de.lordlazor.testplugin.clear:
+    description: Leer dein Inventar
+    default: false
+  de.lordlazor.testplugin.doublejump:
+    description: Double Jump Permissione
+    default: op
+
+
+

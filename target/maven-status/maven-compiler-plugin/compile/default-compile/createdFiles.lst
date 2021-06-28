@@ -1,0 +1,4 @@
+de\lordlazor\script\commands\HealCommand.class
+de\lordlazor\script\Script.class
+de\lordlazor\script\listeners\JoinListener.class
+de\lordlazor\script\listeners\QuitListener.class
