@@ -1,11 +1,11 @@
 # Minecraft Lobby Plugin
 
-**Hier findet ihr ein simples Lobby Plugin für einen Minecraft Server.
-*Jeder hat vollste Erlaubnis den Quelltext zu verwenden und zu modifizieren!
+**Hier findet ihr ein simples Lobby Plugin für einen Minecraft Server.**
+*Jeder hat vollste Erlaubnis den Quelltext zu verwenden und zu modifizieren!*
 
-**Features:
+##Features:
 
-*Befehle
+###Befehle
 /admin - Rechte für /gm, /clear, /fly, broadcast und /heal [OP]
 /backpack - Ein Rucksack -> Kann verändert werden zu einem weiteren Inventar (In config.yml veränderbar)
 /clear - Leert dein Inventar
@@ -15,7 +15,7 @@
 /regeln - Zeigt Regeln an, die individuell einstellbar sind
 /shop - Öffnet den Cosmetic Shop
 
-*Listener
+###Listener
 BorderListener - Spieler können sich nur bis zu einem gewissen Bereich bewegen und werden dann zum Spawn zurück teleportiert (Aus der Map glitchen verhindernt)
 DamageListener - Kein Spieler bekommt jeglichen Schaden
 GoodWeatherListener - Es scheint immer die Sonne <- In Verbindung mit KeepDayTask
@@ -25,7 +25,7 @@ JoinListener - Einige Dinge passieren, wenn die Person den Server betritt (Items
 QuitListener - Chat-Nachricht, dass jemand verlassen hat
 EnderPearlListener - Die Enderperle kommt nach x-Sekunden wieder in dein Inventar
 
-*Weitere Features
+###Weitere Features
 Es gibt Rechte, so dass Ihr auch Befehle via Permissions-System vergeben könnt. (siehe plugin.yml)
 Es gibt ein Scoreboard, welches Ihr bearbeiten könnt.
 Die Tablist wurde völlig gesetzt und kann schnell und einfach verändert werden.
