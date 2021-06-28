@@ -1,7 +1,7 @@
 # Minecraft Lobby Plugin
 
-**Hier findet ihr ein simples Lobby Plugin für einen Minecraft Server.**
-*Jeder hat vollste Erlaubnis den Quelltext zu verwenden und zu modifizieren!*
+## Hier findet ihr ein simples Lobby Plugin für einen Minecraft Server.
+**Jeder hat vollste Erlaubnis den Quelltext zu verwenden und zu modifizieren!*
 
 ## Features:
 
