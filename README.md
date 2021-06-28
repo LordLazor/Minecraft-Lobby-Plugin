@@ -10,7 +10,7 @@
 /backpack - Ein Rucksack -> Kann verändert werden zu einem weiteren Inventar (In config.yml veränderbar)  
 /clear - Leert dein Inventar  
 /fly - Lässt dich fliegen  
-/hub - Du wirst zum Spawn teleportiert  
+/hub - Du wirst zum Spawn teleportiert [aliases: /l, /lobby, /spawn]
 /gm (0-3) - Ändert deinen Gamemode  
 /regeln - Zeigt Regeln an, die individuell einstellbar sind  
 /shop - Öffnet den Cosmetic Shop  
