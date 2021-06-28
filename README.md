@@ -16,14 +16,14 @@
 /shop - Öffnet den Cosmetic Shop
 
 ### Listener
-BorderListener - Spieler können sich nur bis zu einem gewissen Bereich bewegen und werden dann zum Spawn zurück teleportiert (Aus der Map glitchen verhindernt)
-DamageListener - Kein Spieler bekommt jeglichen Schaden
-GoodWeatherListener - Es scheint immer die Sonne <- In Verbindung mit KeepDayTask
-MotdListener - Hier kann die Motd geändert werden
-ChatListener - Chat-Farbe der Spieler verändert und Prefix gesetzt je nach Rang (op | not-op)
-JoinListener - Einige Dinge passieren, wenn die Person den Server betritt (Items geben, Chat-Nachricht, Title wird gesendet, Tablist wird gesetzt, Herzen auf eins begrenzt...)
-QuitListener - Chat-Nachricht, dass jemand verlassen hat
-EnderPearlListener - Die Enderperle kommt nach x-Sekunden wieder in dein Inventar
+BorderListener - Spieler können sich nur bis zu einem gewissen Bereich bewegen und werden dann zum Spawn zurück teleportiert (Aus der Map glitchen verhindernt)  
+DamageListener - Kein Spieler bekommt jeglichen Schaden  
+GoodWeatherListener - Es scheint immer die Sonne <- In Verbindung mit KeepDayTask  
+MotdListener - Hier kann die Motd geändert werden  
+ChatListener - Chat-Farbe der Spieler verändert und Prefix gesetzt je nach Rang (op | not-op)  
+JoinListener - Einige Dinge passieren, wenn die Person den Server betritt (Items geben, Chat-Nachricht, Title wird gesendet, Tablist wird gesetzt, Herzen auf eins begrenzt...)  
+QuitListener - Chat-Nachricht, dass jemand verlassen hat  
+EnderPearlListener - Die Enderperle kommt nach x-Sekunden wieder in dein Inventar  
 
 ### Weitere Features
 Es gibt Rechte, so dass Ihr auch Befehle via Permissions-System vergeben könnt. (siehe plugin.yml)
