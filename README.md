@@ -5,7 +5,7 @@
 
 ## Features:
 
-### Befehle
+### Commands
 /admin - Rechte für /gm, /clear, /fly, broadcast und /heal [OP]  
 /backpack - Ein Rucksack -> Kann verändert werden zu einem weiteren Inventar (In config.yml veränderbar)  
 /clear - Leert dein Inventar  
